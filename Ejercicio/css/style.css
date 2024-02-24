@@ -1,0 +1,11 @@
+h1{
+    color: plum;
+    text-align: center;
+}
+
+.img1 {
+    min-height: 200px;
+  display: inline-block;
+  background: rgba(123, 0, 255, 0.431);
+  width: 20%;
+}
